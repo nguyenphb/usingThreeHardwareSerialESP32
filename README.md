@@ -51,7 +51,9 @@ Khung truyền có thể thiết lập:
 ```
 
 Tài liệu tham khảo:
+
 https://github.com/espressif/arduino-esp32
+
 https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 ESP32 have Three Hardware Serial
@@ -100,7 +102,9 @@ Data Frame available:
     SERIAL_8O2   8-bit Odd  parity 2 stop bit  
 ```
 Have fun !!!
-Docs
-Tài liệu tham khảo:
+
+Docs:
+
 https://github.com/espressif/arduino-esp32
+
 https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
