@@ -1,5 +1,6 @@
 # usingThreeHardwareSerialESP32
 How to use Three Hardware Serial ports on Arduino ESP32
+
 English below
 
 ## Cách sử dụng 3 kênh Serial của ESP32
