@@ -8,7 +8,7 @@ English below
 ESP32 có 3 kênh phần cứng Serial.
 
 ```
-    Serial 0: nạp code và debug hệ thống (có thể tắt debug bằng cách kéo GPIO xuống GND).
+    Serial 0: nạp code và debug hệ thống (có thể tắt debug bằng cách kéo GPIO2 xuống GND).
     Serial 1: chức năng SPI Flash
     Serial 2: không dính chức năng đặc biệt
 ````
